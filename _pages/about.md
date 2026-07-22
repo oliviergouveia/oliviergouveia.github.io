@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at <a href='https://tecnico.ulisboa.pt/pt/'>Instituto Superior Técnico, ULisboa</a> | Teaching Assistant at <a href='https://www.ipleiria.pt/'>Instituto Politécnico de Leiria</a>
+subtitle: PhD Student at <a href='https://tecnico.ulisboa.pt/pt/'>Instituto Superior Técnico, ULisboa</a> | Teaching Assistant at <a href='https://www.ipleiria.pt/'>University of Leiria and Oeste</a>
 
 profile:
   align: right
