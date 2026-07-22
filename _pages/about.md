@@ -28,3 +28,5 @@ latest_posts:
 ---
 
 Olivier R. Gouveia is a doctoral researcher in computational mechanics, affiliated with <a href='https://www.idmec.tecnico.ulisboa.pt/'> IDMEC</a> and <a href='https://cdrsp.ipleiria.pt/'> CDRSP</a> supervised by Prof. Rui B. Ruben and Prof. José Miranda Guedes. His research sits at the intersection of machine learning, computational geometry and optimization focusing on neural surrogate models that accelerate classical iterative tasks in computational mechanics such as Contact Detection and Mesh Optimization.
+
+He is also a Teaching Assistant in the Department of Mechanical Engineering at the <a href='https://www.ipleiria.pt/'> University of Leiria and Oeste</a>, supporting courses in structural mechanics, finite element method and computational mechanics, multibody and vehicle dynamics, and optimization methods.
